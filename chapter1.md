@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'SVD (Singular value decomposition)'
+description: 'In this chapter, we introduce a method of decomposing matrices into  three components.'
 ---
 
 ## Example coding exercise
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 2272ff163d
+xp: 50
+```
+
+`@projector_key`
+0d1c02e84535d03a61017a969fbd7e27
